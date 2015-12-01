@@ -1,0 +1,1 @@
+SET mapred.child.java.opts="-server1g -XX:+UseConcMarkSweepGC -XX:-UseGCOverheadLimit";
